@@ -1,2 +1,2 @@
 # HTML.Blog
-Website that record my coding journey
+Recording my coding journey
